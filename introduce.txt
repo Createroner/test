@@ -1,0 +1,19 @@
+It's my first time to use git
+
+If this is your first time to create repository
+
+The first step is 
+    git init
+
+The second step is
+    git add .
+
+The third step is 
+    git commit -m "注释"
+
+The forth step is 
+    git remote add origin https://github.com/hongduhong/test.git 
+
+The last step is 
+    git push -u origin master
+    
