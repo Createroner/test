@@ -9,11 +9,19 @@ The second step is
     git add .
 
 The third step is 
-    git commit -m "注释"
+    git commit -m "Second Time"
 
 The forth step is 
-    git remote add origin https://github.com/hongduhong/test.git 
+    git remote add origin https://github.com/Createroner/test.git
 
 The last step is 
-    git push -u origin master
+    git push -u origin main
+
+
+
+The second time to push
+
+git remote add origin https://github.com/Createroner/test.git
+git branch -M main
+git push -u origin main
     
